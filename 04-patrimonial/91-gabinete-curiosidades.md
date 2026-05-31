@@ -1,29 +1,39 @@
 # 91. Gabinete de Curiosidades Populares
 
-**Tipo:** Instalação / Arquivo  
-**Categoria:** Patrimonial  
-**Público:** Todos os públicos
-
----
+**Tipo:** Instalação/arquivo  
+**Categoria:** Patrimonial
 
 ## Descrição
 
-Reinterpreta o gabinete de curiosidades como arquivo popular vivo, sem exotizar. Cada objecto precisa de história, contexto e cuidado. O Gabinete MILK não colecciona raridades — colecciona o que é comum mas esquecido.
+O Gabinete de Curiosidades Populares reinterpreta o gabinete de curiosidades histórico como arquivo popular vivo — sem exotizar nem musealizar em excesso. Cada objecto em exposição tem história, contexto, voz e cuidado. O visitante não encontra raridades estranhas mas memórias concretas de pessoas e territórios.
 
-## Princípio
+## Formato oferecível
 
-O gabinete de curiosidades histórico era ferramenta de poder colonial: coleccionava o «outro» para espanto do «eu». O Gabinete de Curiosidades Populares inverte: o «eu» colecciona o seu próprio quotidiano como se fosse extraordinário — porque é.
+- Vitrines com objectos acompanhados de etiquetas narrativas
+- Fotografias com legendas orais transcritas
+- Sons e áudios ligados por QR code
+- Fichas de contexto por objecto
+- Guia de mediação para visita comentada
 
-## Formato Oferecível
+## Entregas públicas possíveis
 
-- Vitrines com objectos, histórias e etiquetas narrativas
-- Sistema de contribuição: o visitante traz um objecto e a sua história
-- Museu portátil (caixas transportáveis)
-- Publicação das curiosidades
+- Exposição em museu, biblioteca ou escola
+- Museu portátil itinerante
+- Publicação com imagens e narrativas dos objectos
+- Actividade de descoberta para famílias
 
-## Suporte Institucional Necessário
+## Suporte institucional necessário
 
-- Curadoria responsável
-- Conservação dos objectos
-- Consentimento dos doadores
-- Espaço físico ou sistema de transporte
+- Curadoria cuidadosa e não exotizante
+- Consentimento dos depositários dos objectos
+- Conservação preventiva básica
+- Direitos de imagem e de narrativa
+
+## Ligações
+
+- Relacionado com: Arquivo Afetivo das Famílias, Sondas Culturais, Livro Vivo das Lendas
+- Ver: `03-comunitario/67-arquivo-afetivo-familias.md`
+
+---
+
+*Associação MILK — Licença EUPL-1.2*

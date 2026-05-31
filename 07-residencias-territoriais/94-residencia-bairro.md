@@ -1,35 +1,39 @@
 # 94. Residência de Bairro
 
 **Tipo:** Residência comunitária curta  
-**Categoria:** Territorial  
-**Público:** Comunidade territorial
-
----
+**Categoria:** Residências e Territoriais
 
 ## Descrição
 
-Criador ou equipa MILK permanece num território (1-4 semanas) para produzir obra, crónica, mapa, jogo ou instalação com devolução pública. A residência não é retiro — é imersão com responsabilidade.
+Um criador ou equipa MILK permanece num território durante um período definido para produzir obra, crónica, mapa, jogo ou instalação com devolução pública. Não é uma residência artística clássica: o processo é partilhado com a comunidade e a devolução acontece no próprio território.
 
-## Fases
+## Formato oferecível
 
-1. Preparação (antes) — contactos, acordos, consentimentos
-2. Chegada — observação sem produção
-3. Imersão — criação a partir do território
-4. Devolução — apresentação pública do que foi feito
-5. Pós-residência — arquivo e publicação
+- Período de presença no território (3 dias a 3 semanas)
+- Processo documentado e partilhado progressivamente
+- Criação de obra ou dispositivo cultural situado
+- Devolução pública no território (exposição, performance, instalação)
+- Publicação ou registo do processo
 
-## Produtos Possíveis
+## Entregas públicas possíveis
 
-- Exposição fotográfica
-- Mapa sonoro
-- Jogo territorial
-- Caderno de campo publicado
-- Instalação efémera
-- Crónicas para Atlas Vivo
+- Residência de freguesia com exposição final
+- Publicação do processo e resultados
+- Oficina ou actividade com comunidade durante a residência
+- Arquivo do território produzido durante a estadia
 
-## Suporte Institucional Necessário
+## Suporte institucional necessário
 
-- Espaço de trabalho (sala ou atelier)
-- Alojamento se necessário
-- Contrato de residência
-- Mediação com comunidade local
+- Espaço de trabalho no território
+- Alojamento se a residência for longa
+- Contrato com clausulas de devolução
+- Mediação entre criador e comunidade
+
+## Ligações
+
+- Relacionado com: Freguesia em 7 Dias, Programa Municipal, Lisboa Invisível
+- Ver: `07-residencias-territoriais/93-freguesia-7-dias.md`
+
+---
+
+*Associação MILK — Licença EUPL-1.2*

@@ -1,34 +1,40 @@
 # 83. Lisboa Invisível
 
 **Tipo:** Programa de leitura urbana  
-**Categoria:** Territorial  
-**Público:** Moradores, visitantes, investigadores urbanos
-
----
+**Categoria:** Residências e Territoriais
 
 ## Descrição
 
-Lê sinais invisíveis da cidade: ofícios, usos de praças, solidões, gentrificação, comércio residual, memórias e pequenas resistências. Lisboa Invisível não é guia turístico — é método de ver o que a cidade esconde.
+Lisboa Invisível lê os sinais que a cidade não exibe nos guias turísticos: ofícios que resistem, usos inesperados de praças, solidões urbanas, comércio residual, memórias de bairros em transformação e pequenas resistências quotidianas. Sem tom acusatório nem nostálgico — com atenção e linguagem cuidada.
 
-## Metodologia
+## Formato oferecível
 
-1. Deriva a pé com mapa em branco
-2. Registo de sinais invisíveis (o banco que ninguém usa, a loja que não tem placa, o mural apagado)
-3. Entrevista curta a moradores (com consentimento)
-4. Composição de crónica urbana
-5. Devolução pública (exposição, podcast, mapa)
+- Rotas a pé com paragens comentadas
+- Crónicas escritas sobre lugares e pessoas
+- Pontos de escuta instalados temporariamente
+- Mapa de sinais invisíveis da cidade
+- Intervenções efémeras no espaço urbano
 
-## Entrega Pública Possível
+## Entregas públicas possíveis
 
-- Roteiro publicado
-- Exposição fotográfica
-- Podcast episódico
-- Mapa integrado no Atlas Vivo
-- Relatório para câmara ou fundação
+- Roteiro publicado (impresso ou digital)
+- Exposição fotográfica e textual
+- Podcast com crónicas urbanas
+- Mapa distribuído em bibliotecas e juntas
+- Relatório cultural para câmara ou investigação
 
-## Suporte Institucional Necessário
+## Suporte institucional necessário
 
-- Observação ética (sem fotografar pessoas sem consentimento)
-- Autorização para uso de espaços privados
-- Linguagem não acusatória (o problema é o sistema, não os actores individuais)
-- Moderação dos relatos sensíveis
+- Observação eticamente enquadrada
+- Autorização para espaços privados quando necessário
+- Linguagem não acusatória e não nostálgica
+- Revisão por residente ou conhecedor do território
+
+## Ligações
+
+- Relacionado com: Mapa das Ausências, Banco de Histórias, Provas de Existência Cultural
+- Ver: `07-residencias-territoriais/87-mapa-ausencias.md`
+
+---
+
+*Associação MILK — Licença EUPL-1.2*

@@ -1,33 +1,40 @@
 # 76. Sardinha-Coroa
 
-**Tipo:** Objecto / personagem derivado do Reizinho  
-**Categoria:** Universo Folclore Vivo  
-**Público:** Todos os públicos
-
----
+**Tipo:** Objeto/personagem derivado do Reizinho  
+**Categoria:** Universo Folclore Vivo
 
 ## Descrição
 
-Elemento visual do universo do Reizinho que pode tornar-se objecto de performance, oficina de vestuário, jogo de vestir, fotografia e produto cultural. A Sardinha-Coroa é a intersecção entre o folclore lusitano, o humor popular e a identidade visual MILK.
+A Sardinha-Coroa é um elemento visual e performativo do universo do Reizinho — personagem do Folclore Vivo MILK. Combina a iconografia popular da sardinha portuguesa com a coroa como símbolo de autoridade lúdica e imaginária. Pode tornar-se adereço de performance, objecto de oficina, jogo de vestir, fotografia e produto cultural.
 
-## Aplicações
+## Formato oferecível
 
-- Adereço em performance ao vivo
-- Objecto na Loja Cultural MILK
-- Actividade infantil de construção e vestuário
-- Imagem de campanha e comunicação
-- Máscara e fantoche
+- Coroa física (cartão, tecido, cerâmica ou papel)
+- Figurino completo ou parcial
+- Objecto lúdico para crianças e adultos
+- Registo fotográfico e performance
+- Edição como objecto de loja ou colecção
 
-## Características do Personagem
+## Entregas públicas possíveis
 
-- Sardinha com coroa (ou Reizinho em forma de sardinha)
-- Cor: azul-prateado com dourado
-- Personalidade: irônico, sábio, saltitante
-- Aparece em dias de festa, mercados e encontros populares
+- Adereço performativo em festival ou escola
+- Objecto de loja MILK
+- Atividade infantil de construção da coroa
+- Imagem de campanha institucional
+- Instalação fotográfica
 
-## Suporte Institucional Necessário
+## Suporte institucional necessário
 
-- Design validado pela equipa MILK
-- Produção segura para todas as idades
-- Licença de imagem registada
-- Autoria atribuída ao Universo Folclore Vivo MILK
+- Design e produção do objecto
+- Segurança de materiais (especialmente para crianças)
+- Autoria e licenciamento visual
+- Protocolo de uso em eventos
+
+## Ligações
+
+- Relacionado com: Reizinho, Cartas de Aparição, Coleção Infantil Folclore Vivo
+- Ver: `08-universo-folclore-vivo/78-colecao-infantil.md`
+
+---
+
+*Associação MILK — Licença EUPL-1.2*

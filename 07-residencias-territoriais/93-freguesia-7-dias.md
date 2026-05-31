@@ -1,37 +1,39 @@
 # 93. Freguesia em 7 Dias
 
 **Tipo:** Proposta de piloto rápido  
-**Categoria:** Territorial  
-**Público:** Autarquias, comunidade local
-
----
+**Categoria:** Residências e Territoriais
 
 ## Descrição
 
-Formato compacto para autarquias: em sete dias a MILK recolhe sinais públicos, activa escuta e produz uma primeira devolução cultural não intrusiva. É o ponto de entrada no ecossistema MILK para parceiros novos.
+Formato compacto para autarquias: em sete dias a equipa MILK recolhe sinais públicos, activa escuta não intrusiva e produz uma primeira devolução cultural concreta. Não é diagnóstico técnico nem relatório de consultoria — é uma leitura cultural rápida com devolução pública.
 
-## Calendário
+## Formato oferecível
 
-| Dia | Actividade |
-|-----|------------|
-| 1 | Chegada + observação livre + mapa em branco |
-| 2 | Deriva territorial + primeiros contactos |
-| 3 | Sessão pública de escuta (Banco de Histórias) |
-| 4 | Registo fotográfico e sonoro + entrevistas |
-| 5 | Síntese e composição de material |
-| 6 | Montagem de devolução (mapa, exposição ou crónica) |
-| 7 | Apresentação pública + relatório curto |
+- Dia 1–2: observação, caminhada e escuta espontânea
+- Dia 3–4: activação de ponto de escuta ou dispositivo público
+- Dia 5: produção de material de devolução
+- Dia 6: revisão e preparação da apresentação
+- Dia 7: apresentação pública dos primeiros sinais
 
-## Entrega
+## Entregas públicas possíveis
 
-- Mapa participativo
-- Relatório de 2-4 páginas
-- Crónica territorial
-- Proposta de continuidade
+- Piloto municipal com relatório curto
+- Mapa de primeiros sinais do território
+- Apresentação pública à comunidade
+- Proposta de continuidade (programa anual ou semestral)
 
-## Suporte Institucional Necessário
+## Suporte institucional necessário
 
-- Equipa mínima de 2 pessoas
-- Espaço de trabalho local
-- Autorização da autarquia
-- Critérios de devolução acordados
+- Equipa mínima de 2 mediadores
+- Autorização municipal ou da junta
+- Cronograma acordado
+- Critérios de devolução definidos previamente
+
+## Ligações
+
+- Relacionado com: Residência de Bairro, Programa Municipal MILK, Kit para Freguesias
+- Ver: `07-residencias-territoriais/94-residencia-bairro.md`
+
+---
+
+*Associação MILK — Licença EUPL-1.2*

@@ -1,36 +1,39 @@
 # 78. Coleção Infantil Folclore Vivo
 
 **Tipo:** Linha educativa  
-**Categoria:** Universo Folclore Vivo  
-**Público:** Crianças dos 4 aos 12 anos
-
----
+**Categoria:** Universo Folclore Vivo
 
 ## Descrição
 
-Adapta o Folclore Vivo para crianças sem infantilizar nem assustar indevidamente. Trabalha imaginação, diferença, território e cuidado. O folclore para crianças não é versão simplificada — é versão que respeita a inteligência infantil.
+A Coleção Infantil Folclore Vivo adapta os personagens, criaturas e narrativas do Folclore Vivo MILK para crianças — sem infantilizar em excesso nem assustar indevidamente. Trabalha imaginação, diferença, território, cuidado e pertença através de livros, jogos, bonecos e actividades.
 
-## Linha de Produtos
+## Formato oferecível
 
-| Produto | Público | Formato |
-|---------|---------|--------|
-| Livro das Criaturas | 6-10 anos | Livro ilustrado |
-| Cartas de Aparição Júnior | 5-8 anos | Baralho simplificado |
-| Fantoches do Folclore | 4-8 anos | Fantoches de mão |
-| Kit de Jogar às Criaturas | 6-12 anos | Jogo de rua |
-| Caderno de Investigador | 8-12 anos | Caderno de actividades |
+- Livros ilustrados com personagens do Folclore Vivo
+- Cartas e baralhos adaptados à faixa etária
+- Bonecos e fantoches dos personagens
+- Jogos de tabuleiro e atividades
+- Kits para sala de aula ou família
 
-## Princípios Editoriais
+## Entregas públicas possíveis
 
-- Sem violência gratuita
-- Com diversidade de personagens
-- Sem estereótipos de género ou etnia
-- Com actividade em cada história
-- Classificação etária clara
+- Colecção escolar distribuída por kits
+- Apresentações em bibliotecas e museus
+- Jogos de mesa para uso familiar
+- Exposição de personagens ilustrados
 
-## Suporte Institucional Necessário
+## Suporte institucional necessário
 
 - Classificação etária por produto
 - Revisão pedagógica e sensível
-- Ilustração original e licenciada
-- Testes com crianças antes de publicação
+- Ilustração profissional adaptada
+- Licenciamento dos personagens e narrativas
+
+## Ligações
+
+- Relacionado com: Sardinha-Coroa, Clube das Aparições, Teatro de Fantoches Folclóricos
+- Ver: `08-universo-folclore-vivo/95-clube-aparicoes.md`
+
+---
+
+*Associação MILK — Licença EUPL-1.2*

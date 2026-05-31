@@ -1,37 +1,39 @@
 # 95. Clube das Aparições
 
-**Tipo:** Clube infanto-juvenil / geral  
-**Categoria:** Universo Folclore Vivo  
-**Público:** Crianças, jovens e adultos curiosos
-
----
+**Tipo:** Clube infantojuvenil/geral  
+**Categoria:** Universo Folclore Vivo
 
 ## Descrição
 
-Clube periódico para criar, investigar e recontar criaturas, lendas e aparições de forma segura e inventiva. O Clube das Aparições não estuda o folclore — habita-o.
+O Clube das Aparições é um clube periódico para criar, investigar e recontar criaturas, lendas e aparições de um território de forma segura e inventiva. Os membros recebem missões, cartas e desafios ligados ao Folclore Vivo MILK, constroem personagens, fazem mapas e partilham histórias.
 
-## Estrutura de Sessão
+## Formato oferecível
 
-1. **Aquecimento** — Jogo de observação ou escuta (10 min)
-2. **Caso** — Uma criatura ou lenda apresentada (15 min)
-3. **Investigação** — O clube investiga: de onde vem? Porquê? (20 min)
-4. **Criação** — Desenho, carta, ficha ou história da criatura (20 min)
-5. **Arquivo** — A criatura entra no Arquivo das Aparições (5 min)
+- Encontros periódicos presenciais ou híbridos
+- Sistema de cartas e missões enviadas aos membros
+- Caderno de investigação de criaturas
+- Mapas de aparições do território
+- Actividades de desenho, escrita e construção
 
-## Entrega Pública Possível
+## Entregas públicas possíveis
 
-- Clube escolar (semanal ou quinzenal)
-- Programa de biblioteca
-- Actividade de museu
-- Programa de férias
+- Clube em escola ou biblioteca
+- Programa de museu para famílias
+- Actividade de férias
+- Exposição de criaturas criadas pelos membros
 
-## Produto do Clube
+## Suporte institucional necessário
 
-O Clube produz um **Arquivo das Aparições** — fichário ilustrado com todas as criaturas investigadas e criadas. Pode ser publicado ou exposto.
-
-## Suporte Institucional Necessário
-
-- Mediação com sensibilidade ao imaginário infantil
+- Mediação adulta qualificada
 - Autorização parental
-- Materiais de criação
-- Regras claras de participação e saída
+- Materiais e kits por sessão
+- Regras de participação e segurança
+
+## Ligações
+
+- Relacionado com: Coleção Infantil, Cartas de Aparição, Livro Vivo das Lendas
+- Ver: `04-patrimonial/77-livro-vivo-lendas.md`
+
+---
+
+*Associação MILK — Licença EUPL-1.2*

@@ -1,36 +1,39 @@
 # 87. Mapa das Ausências
 
 **Tipo:** Dispositivo crítico territorial  
-**Categoria:** Territorial  
-**Público:** Comunidade, investigadores, comunicação social
-
----
+**Categoria:** Residências e Territoriais
 
 ## Descrição
 
-Mapeia o que já não está. O Mapa das Ausências não é nostálgico — é político. Serve para ler perda de convivência, memória urbana, transformação económica e políticas públicas sem tom acusatório.
+O Mapa das Ausências mapeia o que já não está: lojas fechadas, bancos retirados, árvores abatidas, fontes tapadas, cinemas convertidos, encontros que deixaram de acontecer. Serve para ler perda de convivência, memória urbana e transformação económica sem tom acusatório nem saudosismo paralisante.
 
-## O que mapeia
+## Formato oferecível
 
-- Lojas fechadas
-- Bancos retirados
-- Árvores cortadas
-- Fontes secas
-- Cinemas extintos
-- Encontros extintos (mercados, feiras, festas desaparecidas)
-- Serviços públicos retirados
-- Pessoas que partiram
+- Mapa físico ou digital com pontos de ausência
+- Fichas de cada ausência com contexto e data
+- Crónicas ou relatos sobre o que existia
+- Caminhada comentada pelo mapa
+- Relatório cultural para autarquia ou investigação
 
-## Formato
+## Entregas públicas possíveis
 
-- Mapa georreferenciado (integrado no Atlas Vivo)
-- Caminhada comentada pelas ausências
-- Relatório temático (ex: «As lojas que fecharam em 10 anos»)
-- Exposição de antes/depois
+- Mapa impresso distribuído em espaço público
+- Exposição itinerante
+- Caminhada guiada como actividade pública
+- Crónica publicada em caderno ou jornal local
 
-## Suporte Institucional Necessário
+## Suporte institucional necessário
 
-- Fontes verificáveis
-- Linguagem prudente e não difamatória
-- Validação com moradores
-- Moderação editorial
+- Fontes documentais verificáveis
+- Linguagem prudente e não acusatória
+- Validação por residente ou historiador local
+- Moderação de perspectivas divergentes
+
+## Ligações
+
+- Relacionado com: Lisboa Invisível, Banco de Histórias, Arquivo das Palavras Perdidas
+- Ver: `07-residencias-territoriais/83-lisboa-invisivel.md`
+
+---
+
+*Associação MILK — Licença EUPL-1.2*
