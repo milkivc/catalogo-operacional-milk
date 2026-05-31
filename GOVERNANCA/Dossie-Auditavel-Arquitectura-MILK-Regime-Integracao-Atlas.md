@@ -1,7 +1,7 @@
 # Dossiê Auditável da Arquitectura MILK
 ## Regime de Integração no Atlas Vivo
 
-**Versão:** 1.0  
+**Versão:** 1.1  
 **Data:** Maio 2026  
 **Estatuto:** Documento de Governança Interna — Acesso Público Controlado  
 **Licença:** EUPL-1.2  
@@ -53,24 +53,24 @@ O sistema MILK é composto por camadas funcionais distintas com interfaces defin
 
 ```
 ┌─────────────────────────────────────────────────┐
-│ CAMADA DE APRESENTAÇÃO │
-│ Interface pública (HTML/CSS/JS) │
-│ Atlas Vivo (Google Maps API + Leaflet) │
-│ Painel de gestão interna │
+│ CAMADA DE APRESENTAÇÃO                          │
+│ Interface pública (HTML/CSS/JS)                 │
+│ Atlas Vivo (Google Maps API + Leaflet)          │
+│ Painel de gestão interna                        │
 └─────────────────────────────────────────────────┘
- ↑
+                        ↑
 ┌─────────────────────────────────────────────────┐
-│ CAMADA LÓGICA (Google Apps Script) │
-│ Orquestrador de processos │
-│ Controladores de fluxo de dados │
-│ Gestores de consentimento e acesso │
+│ CAMADA LÓGICA (Google Apps Script)              │
+│ Orquestrador de processos                       │
+│ Controladores de fluxo de dados                 │
+│ Gestores de consentimento e acesso              │
 └─────────────────────────────────────────────────┘
- ↑
+                        ↑
 ┌─────────────────────────────────────────────────┐
-│ CAMADA DE DADOS (Google Workspace) │
-│ Google Sheets (base de dados operacional) │
-│ Google Drive (repositório documental) │
-│ Google Forms (recolha de dados primários) │
+│ CAMADA DE DADOS (Google Workspace)              │
+│ Google Sheets (base de dados operacional)       │
+│ Google Drive (repositório documental)           │
+│ Google Forms (recolha de dados primários)       │
 └─────────────────────────────────────────────────┘
 ```
 
@@ -101,25 +101,34 @@ O sistema MILK alinha-se com os seguintes padrões internacionais de interoperab
 | **GeoJSON / WGS84** | Padrão geoespacial | Coordenadas de todos os registos territoriais |
 | **SKOS** | Sistemas de organização de conhecimento | Vocabulários controlados para classificação de dispositivos |
 
-### 4.2 Vocabulário Controlado MILK
+### 4.2 Política de Terminologia Inclusiva
 
-O vocabulário utilizado no sistema MILK foi revisto para eliminar termos depreciados, inadequados ou sem correspondente institucional válido. Aplicam-se as seguintes regras:
+O vocabulário utilizado em todos os repositórios e sistemas MILK obedece a uma **política de terminologia inclusiva de aplicação obrigatória e permanente**. Esta política aplica-se sem excepções a todos os campos públicos, metadados, títulos de dispositivos, nomes de personagens, ficheiros e documentação.
 
-- **Terminologia inclusiva**: evitar termos que objectifiquem, estigmatizem ou diminuam grupos populacionais ou personagens
-- **Terminologia neutral de género**: preferência por formas neutras ou expansíveis
-- **Terminologia patrimonial adequada**: seguir os Thesauri do Getty (AAT), UNESCO e DGPC para denominar práticas, objectos e territórios
-- **Proibição de termos depreciados**: nenhum termo classificado como inadequado nos thesauri de referência pode ser utilizado em campos públicos ou de interoperabilidade
+**Princípios da política:**
 
-#### Exemplos de substituição terminológica aplicável
+- Nenhum termo pode afectar, estigmatizar ou ferir qualquer minoria — étnica, física, cultural, de saúde mental, de género ou de origem
+- Nenhum símbolo, denominação ou representação pode reproduzir hierarquias coloniais, capacitistas ou discriminatórias
+- A autodesignação das comunidades prevalece sempre sobre denominações externas
+- Quando um termo é identificado como inadequado, é removido de imediato de todos os ficheiros e substituído de forma retroactiva
+- A revisão terminológica é contínua, não pontual
 
-| Termo evitado | Termo adoptar | Justificação |
-|---|---|---|
-| Anão | Ser subterrâneo / Guardião das profundezas / Ser de pequena estatura | Evita estigmatização de condicionantes físicas reais |
-| Cigano (como adjectivo) | Povo Rom / Cultura nómade / Prática itinerante | Respeito pela autodesignação comunitária |
-| Louco / Doido | Personagem excluvído / Figura liminar | Evita estigma de saúde mental |
-| Selvagem | Ancestral / Originário / Não domesticado | Elimina conotação colonial |
-| Primitivo | Arcaico / Ancestral / De origem remota | Elimina hierarquia civilizacional |
-| Índio | Povo indígena / Nome próprio da comunidade | Substitui por autodesignação correcta |
+**Processo de revisão:**
+
+1. Identificação do termo inadequado (por membro da equipa, comunidade ou parceiro)
+2. Remoção imediata do ficheiro e substituição por denominação adequada
+3. Registo no audit trail com data, justificação e termo substituto
+4. Actualização do GLOSSARIO.md com entrada da substituição
+5. Comunicação à equipa para garantir consistência em novos documentos
+
+**Referências de validação terminológica:**
+
+- Getty Art & Architecture Thesaurus (AAT)
+- UNESCO Thesaurus
+- DGPC — Vocabulário do Património Cultural Imaterial
+- Convenção da UNESCO para o PCI (2003)
+- Recomendações do Conselho da Europa sobre linguagem inclusiva
+- ONU — Terminologia de Direitos Humanos
 
 ### 4.3 Registo de Entidades com Correspondência Dublin Core
 
@@ -163,7 +172,7 @@ Todo o código produzido pela Associação MILK é disponibilizado sob **Europea
 - Compatível com GPL v2, LGPL, MPL, OSL, CeCILL
 - Permite uso, modificação e redistribuição com manutenção da mesma licença
 - Aplica-se a código fonte, scripts e conteúdo estruturado
-- Excluí conteúdo editorial protegido por direito de autor das comunidades colaborantes
+- Exclui conteúdo editorial protegido por direito de autor das comunidades colaborantes
 
 ### 5.3 Direitos de Autor e Património Intangível
 
@@ -195,9 +204,9 @@ Para aceder à maioria dos financiamentos acima listados, o sistema MILK demonst
 
 - **Não-lucratividade**: estatutos e contas públicas verificáveis
 - **Impacto mensurável**: indicadores de alcance, participação e devolução cultural
-- **Inovacao metodológica**: dispositivos originais, documentados e replicáveis
+- **Inovação metodológica**: dispositivos originais, documentados e replicáveis
 - **Inclusão e acessibilidade**: adaptabilidade dos dispositivos a populações diversas
-- **Georreferenciação**: impacto territorial verificável por núrmero de fregesias e municípios
+- **Georreferenciação**: impacto territorial verificável por número de freguesias e municípios
 - **Abertura e transparência**: código aberto, dados públicos, relatórios auditáveis
 - **Parceria institucional**: capacidade de articular com autarquias, museus, universidades
 
@@ -206,12 +215,12 @@ Para aceder à maioria dos financiamentos acima listados, o sistema MILK demonst
 O modelo MILK não assenta em lucratividade mas em **sustentabilidade por diversificação de receitas**:
 
 ```
-Receitas públicas      → Subvenções DGArtes, municípios, programas europeus
+Receitas públicas       → Subvenções DGArtes, municípios, programas europeus
 Receitas de prestação   → Programas em escolas, museus, SESC, CCDR
 Receitas editoriais     → Publicações, kits, baralhos, colecções
-Receitas de formação   → Formação de mediadores e equipas institucionais
-Receitas de mecenato    • Gul-benkian, CGD, fundações privadas
-Contributo cívico      → IRS consignação 1%
+Receitas de formação    → Formação de mediadores e equipas institucionais
+Receitas de mecenato    → Gulbenkian, CGD, fundações privadas
+Contributo cívico       → IRS consignação 1%
 ```
 
 ---
@@ -232,7 +241,7 @@ Contributo cívico      → IRS consignação 1%
 
 | Política | Instrumento | Alinhamento MILK |
 |---|---|---|
-| Estratégia Cultural Europeia | Agenda Europeia para a Cultura 2019 | Acesso, diversidade, innovação cultural |
+| Estratégia Cultural Europeia | Agenda Europeia para a Cultura 2019 | Acesso, diversidade, inovação cultural |
 | Agenda Digital Europeia | Digital Decade 2030 | Dados culturais abertos e interoperáveis |
 | New European Bauhaus | Comissão Europeia | Estética, sustentabilidade, inclusão |
 | Data Governance Act | Regulamento (UE) 2022/868 | Governança de dados culturais de interesse geral |
@@ -245,6 +254,7 @@ Contributo cívico      → IRS consignação 1%
 - **Princípio de reciprocidade**: toda a recolha tem devolução pública concreta ao território
 - **Princípio de transparência**: dados, metodologias e resultados são públicos e auditáveis
 - **Princípio de autonomia**: as comunidades podem retirar o seu consentimento a qualquer momento
+- **Princípio de não discriminação**: nenhum símbolo, personagem ou denominação pode afectar qualquer minoria
 
 ---
 
@@ -266,7 +276,7 @@ O Atlas Vivo opera com quatro camadas de dados com níveis de acesso diferenciad
 ```
 [1] Criação da ficha metodológica (GitHub / catálogo operacional)
       ↓
-[2] Revisão semântica e terminológica
+[2] Revisão semântica e terminológica (política de inclusão obrigatória)
       ↓
 [3] Atribuição de metadados Dublin Core + georreferenciação (WGS84)
       ↓
@@ -308,12 +318,13 @@ Todo o sistema MILK mantém um **registo de audit trail** contínuo:
 - **Registo de consentimentos**: formulário com data, versão do documento e canal
 - **Registo de acesso a dados sensíveis**: log interno com identidade e justificação
 - **Registo de decisões editoriais**: ficheiro de govern de cada publicação
+- **Registo de substituições terminológicas**: data, termo removido, termo substituto, justificação
 
 O audit trail é mantido por um mínimo de 5 anos e é acessível a auditores designados mediante pedido fundamentado.
 
 ---
 
-## 10. Glosário de Termos Institucionais
+## 10. Glossário de Termos Institucionais
 
 | Termo MILK | Definição institucional |
 |---|---|
@@ -324,9 +335,10 @@ O audit trail é mantido por um mínimo de 5 anos e é acessível a auditores de
 | **Mediador** | Profissional formado para activar dispositivos MILK com ética e competência |
 | **Património intangível** | Expressões vivas de cultura: práticas, narrativas, saberes, rituais (Conv. UNESCO 2003) |
 | **Atlas Vivo** | Sistema de visualização geoespacial da memória cultural por território |
-| **Folclore Vivo** | Universe de personagens e criaturas da imaginação popular lusitana, activados metodologicamente |
+| **Folclore Vivo** | Universo de personagens e figuras da imaginação popular lusitana, activados metodologicamente |
 | **Audit trail** | Registo cronológico e verificável de todas as alterações a dados e decisões |
 | **Catálogo operacional** | Repositório GitHub de todas as fichas metodológicas MILK |
+| **Guardião das Profundezas** | Figura ancestral do subsolo, sem atributos físicos definidos — forma determinada pela comunidade |
 
 ---
 
@@ -340,8 +352,10 @@ Este dossiê constitui a declaração formal da Associação MILK de que:
 4. Os dispositivos metodológicos são originais, replicáveis e de impacto mensurável
 5. A organização é elegível para financiamento público europeu e nacional
 6. O vocabulário utilizado é revisto, inclusivo e alinhado com thesauri internacionais
-7. A interoperabilidade com plataformas europeias de património cultural é um objectivo estratégico
+7. Nenhum termo, símbolo ou denominação que afecte qualquer minoria é utilizado em qualquer campo público ou de interoperabilidade
+8. A revisão terminológica é contínua, retroactiva e registada em audit trail
+9. A interoperabilidade com plataformas europeias de património cultural é um objectivo estratégico
 
 ---
 
-*Associação MILK — Licença EUPL-1.2 — Versão 1.0 — Maio 2026*
+*Associação MILK — Licença EUPL-1.2 — Versão 1.1 — Maio 2026*
